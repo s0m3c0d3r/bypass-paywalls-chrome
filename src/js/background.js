@@ -19,6 +19,7 @@ const allowCookies = [
   'ed.nl',
   'examiner.com.au',
   'ft.com',
+  'gelderlander.nl',
   'harpers.org',
   'hbr.org',
   'lesechos.fr',
@@ -73,6 +74,7 @@ const removeCookies = [
   'ed.nl',
   'examiner.com.au',
   'ft.com',
+  'gelderlander.nl',
   'harpers.org',
   'hbr.org',
   'lesechos.fr',
@@ -117,6 +119,7 @@ const removeCookiesSelectDrop = {
   'ed.nl': ['temptationTrackingId'],
   'demorgen.be': ['TID_ID'],
   'fd.nl': ['socialread'],
+  'gelderlander.nl': ['temptationTrackingId'],
   'nrc.nl': ['counter']
 };
 

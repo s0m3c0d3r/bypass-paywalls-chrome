@@ -16,6 +16,7 @@ const defaultSites = {
   'Corriere Della Sera': 'corriere.it',
   'Crain\'s Chicago Business': 'chicagobusiness.com',
   'Daily Press': 'dailypress.com',
+  'De Gelderlander': 'gelderlander.nl',
   'De Groene Amsterdammer': 'groene.nl',
   'DeMorgen': 'demorgen.be',
   'Denver Post': 'denverpost.com',
